@@ -1,25 +1,13 @@
-# ShadowsocksR
-A ShadowsocksR client for Android, written in Kotlin.
+# ShadowsocksR+GoProxy
 
-### PREREQUISITES
+本项目是集成的
+https://github.com/HMBSbige/ShadowsocksR-Android
+和
+https://github.com/snail007/goproxy-android
+两位大佬的项目,感谢大佬给我们的便利,
+项目是ShadowsocksR Android 客户端 和 goProxy 客户端的合体,主要便于一键启动SSR翻墙和代理,非常便捷Nice,语言采用Kotlin编写
+
+### 运行环境
 
 * JDK 1.8
 * Android Studio 3.5.2
-
-# LICENSE
-
-Copyright (C) 2016 by Max Lv <<max.c.lv@gmail.com>>  
-Copyright (C) 2016 by Mygod Studio <<mygodstudio@gmail.com>>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/>.
