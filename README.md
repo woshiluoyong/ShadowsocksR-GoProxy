@@ -12,6 +12,6 @@ https://github.com/snail007/goproxy-android
 * JDK 1.8
 * Android Studio 3.5.2
 
-### 截图(图片加载失败了,下载项目可见)
+### 截图(If图片加载失败了,下载项目可见)
 
 ![哦豁,截图加载失败了](https://github.com/woshiluoyong/ShadowsocksR-GoProxy/blob/master/WechatIMG43.jpeg)
